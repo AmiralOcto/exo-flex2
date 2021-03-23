@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.flex {
+    display: flex;
+    background-color: orange;
+    padding: 15px;
+    height: 55px;
+    margin: 3px;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1 {
+    display: flex;
+    width: 100vw;
+
+}
+
+.c2 {
+    display: flex;
+    width: 46vw;
+
+}
+
+.c3 {
+    display: flex;
+    width: 29vw;
+}
+
+.c12 {
+    display: flex;
+width: 5vw;
+}
